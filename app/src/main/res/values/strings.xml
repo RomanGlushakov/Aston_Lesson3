@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aston Lesson3</string>
+    <string name="austria">Austria</string>
+    <string name="poland">Poland</string>
+    <string name="italy">Italy</string>
+    <string name="flag">flag</string>
+    <string name="colombia">Colombia</string>
+    <string name="madagascar">Madagascar</string>
+    <string name="thailand">Thailand</string>
+    <string name="denmark">Denmark</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="next_screen">Next screen</string>
+    <string name="_2th_screen">2th screen</string>
+    <string name="add_your_link">Add your link</string>
+    <string name="show_picture">Show picture</string>
+    <string name="second_screen">Second screen</string>
+    <string name="first_screen">First screen</string>
+</resources>
